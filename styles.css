@@ -1,0 +1,45 @@
+body {
+    background-color: blueviolet
+}
+
+p {
+    width: 800px;
+    margin: auto;
+    color: aliceblue;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+}
+
+h2 {
+    width: 180px;
+    margin: auto;
+    border: 5px dotted black;
+    background-color: aliceblue;
+    padding: 15px;
+}
+
+figcaption {
+    color: aliceblue;
+    margin: auto;
+    width: auto;
+    padding-left: 15px;
+}
+
+header {
+    width: 350px;
+    margin: auto;
+    color: aliceblue;
+}
+
+.center {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#direct {
+    font-style: oblique;
+}
